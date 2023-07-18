@@ -1,7 +1,7 @@
----
+Eloisa Martinez 
 id: asynchronous
 title: Testing Asynchronous Code
----
+cortezeloisa399@gmail.com
 
 It's common in JavaScript for code to run asynchronously. When you have code that runs asynchronously, Jest needs to know when the code it is testing has completed, before it can move on to another test. Jest has several ways to handle this.
 
